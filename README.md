@@ -9,3 +9,10 @@ pip install -r requirements.txt
 ```
 py app.py
 ```
+## Руководство 
+Для начала нужно выбрать Excel файл для сохранения конечной таблицы.
+![image](https://github.com/vladislavean/ecology-in-australia/assets/34402586/ab4b3929-9da5-409c-8fc5-d621df1f706b)
+Далее запустить работу программы нажав на "Построить"
+![image](https://github.com/vladislavean/ecology-in-australia/assets/34402586/24ed9908-b7a2-437c-ace0-e1e0d37d0ebd)
+
+
